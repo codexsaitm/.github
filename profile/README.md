@@ -1,4 +1,6 @@
-# CodeX Club | SAITM
+# CodeX Club 🚀
+
+## Overview
 
 **CodeX Club** is the official technical and programming community of **SAITM**, built to foster a strong culture of innovation, clean code practices, and collaborative problem-solving.
 
@@ -6,10 +8,10 @@ We focus on hands-on learning through real-world projects, open-source contribut
 
 ## What We Do
 
-* Develop and maintain real-world software projects
-* Encourage open-source contributions and collaboration
-* Strengthen fundamentals in programming, DSA, and system thinking
-* Promote peer learning, mentorship, and knowledge sharing
+* 💻 Develop and maintain real-world software projects
+* 🌱 Encourage open-source contributions and collaboration
+* 🧠 Strengthen fundamentals in programming, DSA, and system thinking
+* 🤝 Promote peer learning, mentorship, and knowledge sharing
 
 ## Our Vision
 
